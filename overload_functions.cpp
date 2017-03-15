@@ -35,7 +35,7 @@ public:
 
 int main()
 {
-   
+
     float a = 0,b = 0,c = 0, p;
     int q = 0;
     Areas S1,S2;
